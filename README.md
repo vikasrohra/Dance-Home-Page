@@ -8,7 +8,7 @@ Hi, I'm `Vikas Rohra`, a web developer living in Mumbai, India.
 
 ## About this project
  - This project is basically a landing web page for a poduct designer, developed with HTML, CSS and media queries.
- - It took me around `10 hrs` to complete this project.
+ - It took me around `3 to 4 hrs` to complete this project.
 
 <br />
 
